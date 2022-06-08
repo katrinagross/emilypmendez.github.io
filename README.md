@@ -13,7 +13,7 @@ Our team has the following members:
 
 ## About Our Team Members:
 <strong>PIT-DSC Mentor:</strong>
-- Katrina Gross: a graduate student at Columbia University in statistics. Majored in computer science and applied math at Colgate University. Worked in market research and government consulting prior to joining the master's program at Columbia. Interested in public policy research and data journalism.
+- Katrina Gross: a graduate student in statistics at Columbia University. Majored in computer science and applied math at Colgate University. Worked in market research and government consulting prior to pursuing a master's degree. Interested in public policy research and data journalism.
 
 <strong>Team Members:</strong>
 - Andrianina Raharijao: a rising senior from Lehman College, majoring in Computer Science and minoring in Math. Interested in a career in Data Science.
