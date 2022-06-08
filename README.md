@@ -13,7 +13,9 @@ Our team has the following members:
 
 ## About our Team members:
 
--Andrianina Raharijao: a rising senior from Lehman College, majoring in Computer Science and minoring in Math. Interested in a career in Data Science.
+- Andrianina Raharijao: a rising senior from Lehman College, majoring in Computer Science and minoring in Math. Interested in a career in Data Science.
+- Emily Portalatin-Mendez: a rising senior from Lehman College, majoring in Computer Science with a minor concentration in Finance. Interested in economic development initiatives, education, and blockchain technology.
+
 
 ## About Team Empower
 
