@@ -13,4 +13,4 @@ Our team has the following members:
 
 ## About Team Empower
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Community Districts are the smallest level of government in NYC and act as a bridge between local communities and the broader city-wide efforts. This project aims to work with the leaders of those communities to empower their districts using data science. Our team will be working with Celestina Leon (District Manager, Brooklyn Community Board 4) and Shawn Campbell (District Manager, Brooklyn Community Board 14) to uplift their respective districts. Some of our solutions include an interactive tool for land use applications, an interactive dashboard for local budgeting and a mapping tool to determine community needs.
