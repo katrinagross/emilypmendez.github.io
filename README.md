@@ -15,6 +15,7 @@ Our team has the following members:
 
 - Andrianina Raharijao: a rising senior from Lehman College, majoring in Computer Science and minoring in Math. Interested in a career in Data Science.
 - Emily Portalatin-Mendez: a rising senior from Lehman College, majoring in Computer Science with a minor concentration in Finance. Interested in economic development initiatives, education, and blockchain technology.
+- Holden Li: a rising senior from Columbia University, majoring in Math and Statistics. Pursuing a career as a data scientist.
 - Jocelyn Rajaballey: a senior from Lehman College, majoring in Public Health and Geographic Information Science. Interested in participatory planning, urban environmental health, and transportation accessibility.
 
 
