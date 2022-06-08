@@ -9,7 +9,7 @@ Our team has the following members:
 - Jocelyn Rajaballey
 - Samira Kamal
 - Holden Li
-- Adrianina Raharijao
+- Andrianina Raharijao
 
 ## About Team Empower
 
