@@ -1,4 +1,4 @@
-# PIT-DSC Team Page
+# PIT-DSC Team Page (2022)
 
 <img src="https://raw.githubusercontent.com/emilypmendez/emilypmendez.github.io/main/images/TeamEmpowerBanner.png" height="125" width="1080" align="center">
 
@@ -11,7 +11,7 @@ Our team has the following members:
 - Holden Li
 - Andrianina Raharijao
 
-## About our Team members:
+## About Our Team Members:
 
 - Andrianina Raharijao: a rising senior from Lehman College, majoring in Computer Science and minoring in Math. Interested in a career in Data Science.
 - Emily Portalatin-Mendez: a rising senior from Lehman College, majoring in Computer Science with a minor concentration in Finance. Interested in economic development initiatives, education, and blockchain technology.
