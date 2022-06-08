@@ -1,6 +1,6 @@
 # PIT-DSC Team Page
 
-<img src="https://raw.githubusercontent.com/emilypmendez/emilypmendez.github.io/main/images/TeamEmpowerBanner.png" height="25" align="center">
+<img src="https://raw.githubusercontent.com/emilypmendez/emilypmendez.github.io/main/images/TeamEmpowerBanner.png" height="300" align="center">
 
 ## Welcome to Team Empower's project page!
 
